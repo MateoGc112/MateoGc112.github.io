@@ -1,2 +1,1 @@
-# MateoGc112.github.io
-Sitio personal/estático/usuario
+# Bienvenido a la página de Mateo GC
